@@ -1,3 +1,4 @@
+origin: https://github.com/PavelTorgashov/FastColoredTextBox
 FastColoredTextBox
 ==================
 
